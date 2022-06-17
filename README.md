@@ -15,23 +15,23 @@ A formação **HTML e CSS** da *Alura* foi pensada para você que quer se tornar
 
 ## Conteudo da formação
 
-![clipboard.png](inkdrop://file:wQHtGiw5i)
+![Artigo]([inkdrop://file:wQHtGiw5i](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/chrome_Swvo56qYL4.png))
 
 Nesse artigo é arbodado o que é *front-end*, e a divisão entre a parte lógica e criativa do *front-end*. Front-end não é só a parte visual, atualmente há bastante de lógica no front-end. Tanto a parte lógica quando a parte visual necessita de conhecimento em **Lógica**,**HTML**, **CSS** e **Javascript**. 
 
 ***
 
-![clipboard.png](inkdrop://file:gZHqIN-El)
+![Artigo]([inkdrop://file:gZHqIN-El](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/chrome_AEEmaQnmdn.png))
 
 Este artigo nos mostra a diferença entre **HTML**, **CSS** e **Javascript** e qual a função de cada uma em uma página web.
 * **HTML:**(*hyper text markup language*) linguagem de marcação utilizada para estruturar os elementos da página, como parágrafos, links, títulos, tabelas, imagens e até vídeos.
 * *CSS:*(*Cascading style sheet*) linguagem de estilos utilizada para definir cores, fontes, tamanhos, posicionamento e qualquer outro valor estético para os elementos da página.
 * **Javascript:** linguagem de programação utilizada para deixar a página com mais movimento, podendo atualizar elementos dinamicamente e lidar melhor com dados enviados e recebidos na página.
 
-![clipboard.png](inkdrop://file:inMXKQnCo)
+![Imagem ]([inkdrop://file:inMXKQnCo](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/imagem-4.png))
 ***
 
-![clipboard.png](inkdrop://file:xE9rB4WHo)
+![Curso]([inkdrop://file:xE9rB4WHo](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/chrome_UVb3DlbOy3.png))
 
 Neste curso introdutório, aprendi sobre o que é **HTML** e **CSS**. Entendi a estrutura básica de um arquivo e como começar a desenvolver com essa linguagem. Usei os conceitos basicos do **CSS** para estilizar a página e dar um visual melhor para a mesma.
 
