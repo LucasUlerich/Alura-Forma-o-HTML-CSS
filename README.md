@@ -1,5 +1,5 @@
 # Formação HTML & CSS
-![Imagem de capa]()
+![Imagem de capa](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/chrome_5amO5ADXKy.png)
 
 
 ![Badge em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
