@@ -38,6 +38,7 @@ Neste curso introdutório, aprendi sobre o que é **HTML** e **CSS**. Entendi a 
 ***
 
 ![Curso part II](https://github.com/LucasUlerich/Alura-Formacao-HTML-CSS/blob/master/Imgs/HTML%20e%20CSS%20part%20%202.png)
+
 Neste curso foi criado a página *Home* da *barbearia Alura* e nela foi aplicado os conceitos de **inline-block**, **reset css**, **hover**, **bordas** e **pseudo-classes**. Usamos as tags **Header, main e footer** para dividir bem o *HTML*, facilitando muito a estilização com o *CSS*. 
 
 ***
